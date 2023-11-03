@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Dharshini Ravichandran </title>
+    <title>Your Name - Ramya R  </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -95,8 +95,8 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src=".Dharshini Ravichandran .jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Dharshini Ravichandran </    h1>
+            <img src=".Ramya R .jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>Ramya R </    h1>
             <p> i am in student</p>
         </div>
     </header>
